@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 working...
 dev
 coding: utf-8
+/usr/bin/env
